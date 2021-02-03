@@ -1,5 +1,5 @@
-# Exercicios e Desafios em linguagem C e C++
-Exercícios e desafios da Disciplina de Técnicas de Programação em linguagem C/C++
+# Desafios em linguagem C e C++
+Desafios da Disciplina de Técnicas de Programação em linguagem C/C++
 Os Objetivos foram:
 - Aplicar os princípios de programação estruturada na resolução de problemas.
 - Utilizar uma linguagem de programação estruturada para implementar sistemas computacionais.
